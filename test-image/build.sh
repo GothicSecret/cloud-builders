@@ -2,8 +2,8 @@
 
 #vars to change
 vendor="gothicsecret";
-imageName="replace-version-in-nuspec";
-imageVersion="0.0.10";
+imageName="test-image";
+imageVersion="0.0.1";
 #End vars to change
 
 source ./../docker-build.sh
